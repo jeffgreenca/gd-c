@@ -1,5 +1,5 @@
 package c
 
 func C() string {
-	return "c"
+	return "cV2"
 }
